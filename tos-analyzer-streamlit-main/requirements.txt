@@ -1,3 +1,4 @@
+
 streamlit
 torch
 transformers
@@ -6,3 +7,5 @@ python-docx
 pandas
 joblib
 numpy
+scikit-learn
+safetensors

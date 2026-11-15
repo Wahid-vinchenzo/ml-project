@@ -3,9 +3,9 @@ streamlit
 torch
 transformers
 sentence-transformers
-scikit-learn
-pandas
-numpy
-joblib
 python-docx
+pandas
+joblib
+numpy
+scikit-learn
 safetensors

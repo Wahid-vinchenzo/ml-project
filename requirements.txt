@@ -1,0 +1,11 @@
+
+streamlit
+torch
+transformers
+sentence-transformers
+scikit-learn
+pandas
+numpy
+joblib
+python-docx
+safetensors
